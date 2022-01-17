@@ -10,6 +10,7 @@ import 'package:pujapurohit/services/signin.dart';
 import 'package:pujapurohit/splash_screen.dart';
 
 
+import 'aarti.dart';
 import 'home_page.dart';
 import 'localization_service.dart';
 import 'books.dart';
@@ -43,6 +44,8 @@ class MyApp extends StatelessWidget {
         '/HomePage' : (BuildContext context) => HomePage(),
         '/BooksPage' : (BuildContext context) => BooksPage(),
         '/SplashScreen' : (BuildContext context) => SplashScreen(),
+        '/AartiPage' : (BuildContext context) => AartiPage(),
+
       },
     )
     );

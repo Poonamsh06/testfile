@@ -28,5 +28,19 @@ const Map<String, String> hiIN = {
   "Mail us": "मेल करें",
   "Language":"भाषा",
   "Logout":"लॉग आउट",
+  "Shri Ganesh Aarti":"श्री गणेश आरती",
+  "Hanuman Aarti":"हनुमान आरती",
+  "Krishna Aarti": "कृष्ण आरती",
+  "Maa Durga Aarti":"मां दुर्गा की आरती",
+  "Maa Lakshami Aarti":"मां लक्षमी आरती",
+  "Maa Paarwati Aarti":"मां पारवती की आरती",
+  "Maa Saraswati Aarti":"मां सरस्वती की आरती",
+  "Maa Vaishno Aarti":"मां वैष्णो की आरती",
+  "Shri Ram Aarti":"श्री राम आरती",
+  "Vishnu Aarti":"विष्णु आरती",
+  "Satyanarayan Aarti":"सत्यनारायण आरती",
+  "Jagdish Aarti":"जगदीश आरती",
+  "Maa Ganga Aarti":"मां गंगा की आरती",
+
 
 };

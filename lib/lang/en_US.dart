@@ -28,4 +28,22 @@ const Map<String, String> enUS = {
   "Mail us" :"Mail us",
 "Language":"Language",
 "Logout":"Logout",
+  "Shri Ganesh Aarti" : "Shri Ganesh Aarti",
+  "Hanuman Aarti " : "Hanuman Aarti",
+  "Maa Durga Aarti " : "Maa Durga Aarti",
+  "Maa Lakshami Aarti ": "Maa Lakshami Aarti",
+  "Maa Paarwati Aarti " : "Maa Paarwati Aarti",
+  "Maa Saraswati Aarti " : "Maa Saraswati Aarti",
+  "Maa Vaishno Aarti" : "Maa Vaishno Aarti",
+  "Shri Ram Aarti" : "Shri Ram Aarti",
+  "Vishnu Aarti" : "Vishnu Aarti",
+  "Satyanarayan Aarti " : "Satyanarayan Aarti",
+  "Jagdish Aarti"  : "Jagdish Aarti",
+  "Maa Ganga Aarti " : "Maa Ganga Aarti",
+  "Krishna Aarti"   :   "Krishna Aarti"
+
+
+
+
+
 };

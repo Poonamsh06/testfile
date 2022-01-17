@@ -4,12 +4,16 @@ import 'package:flutter/material.dart';
 import 'package:pujapurohit/books.dart';
 import 'package:pujapurohit/books.dart';
 import 'package:pujapurohit/drawer.dart';
+import 'package:pujapurohit/parvachan.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
 
+import 'aarti.dart';
 import 'localization_service.dart';
 import 'package:get/get.dart';
 import 'package:carousel_slider/carousel_slider.dart';
 import 'dart:io';
+
+import 'magazines.dart';
 
 class HomePage extends StatefulWidget {
   @override
@@ -54,7 +58,11 @@ class _HomePageState extends State<HomePage> {
     // ];
 
    List <Widget> Pages = [
-     BooksPage()
+     BooksPage(),
+     MagazinePage(),
+     ParvachanPage(),
+     AartiPage(),
+
    ];
 
 
